@@ -10,7 +10,7 @@ banner = """
  | | | | | | | | | | || |_
  | | | | | | | | | |__   _|
  | |_| | |_| | |_| |  | |
-  \___/ \___/ \___/   |_|   Veilwr4ith
+  \___/ \___/ \___/   |_|   Zephyr
 """
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 password_found = threading.Event()
