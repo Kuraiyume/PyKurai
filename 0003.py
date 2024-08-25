@@ -9,7 +9,7 @@ banner = r"""
  | | | | | | | | | |__) |
  | | | | | | | | | |__ <
  | |_| | |_| | |_| |__) |
-  \___/ \___/ \___/____/    Veilwr4ith
+  \___/ \___/ \___/____/    Zephyr
 """
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
