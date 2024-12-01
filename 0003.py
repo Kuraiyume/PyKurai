@@ -9,7 +9,7 @@ banner = r"""
  | | | | | | | | | |__) |
  | | | | | | | | | |__ <
  | |_| | |_| | |_| |__) |
-  \___/ \___/ \___/____/    Kuraiyume
+  \___/ \___/ \___/____/    Kuroshiro
 """
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
