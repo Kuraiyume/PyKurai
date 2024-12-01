@@ -10,7 +10,7 @@ banner = """
  | | | | | | | | | | || |_
  | | | | | | | | | |__   _|
  | |_| | |_| | |_| |  | |
-  \___/ \___/ \___/   |_|   Kuraiyume
+  \___/ \___/ \___/   |_|   Kuroshiro
 """
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 password_found = threading.Event()
