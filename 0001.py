@@ -10,7 +10,7 @@ banner = r"""
  | | | | | | | | | || |
  | | | | | | | | | || |
  | |_| | |_| | |_| || |
-  \___/ \___/ \___/ |_|   Kuraiyume
+  \___/ \___/ \___/ |_|   Kuroshiro
 """
 
 def fetch_windows_ssids():
